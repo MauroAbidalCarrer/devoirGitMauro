@@ -1,0 +1,4 @@
+Je suis actuellement entrain de réaliser un jeu vidéo qui utilise la même méthode de LOD de planete.(LOD= Level Of Detail)
+Etant donné qu'une planète à taille réelle ne peut pas être entierement génerée par l'ordinateur il faut la génerer de sorte à ce que les parties/zones plus proches du joueur contiennent plus de détail que celle plus lointaines.
+La méthode en question se nomme qudTree c'est une structure qui orrdonne l'information dans l'éspace.
+
